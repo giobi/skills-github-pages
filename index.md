@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+title: giobi pages
 ---
+
+how are you!
